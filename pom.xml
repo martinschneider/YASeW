@@ -61,7 +61,7 @@
     <!-- Version properties -->
     <java.version>10</java.version>
     <spring.boot.version>2.7.5</spring.boot.version>
-    <spring.version>5.3.24</spring.version>
+    <spring.version>6.1.14</spring.version>
     <appium.version>8.2.0</appium.version>
     <selenium.version>4.2.2</selenium.version>
     <selenide.version>6.5.2</selenide.version>
