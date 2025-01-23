@@ -76,7 +76,7 @@
     <logback.version>1.3.0-beta0</logback.version>
     <mockito.version>4.9.0</mockito.version>
     <assertj.version>3.23.1</assertj.version>
-    <snakeyaml.version>1.33</snakeyaml.version>
+    <snakeyaml.version>2.0</snakeyaml.version>
     <dd.plist.version>1.26</dd.plist.version>
     <apk.parser.version>2.6.10</apk.parser.version>
     <zip4j.version>2.11.2</zip4j.version>
