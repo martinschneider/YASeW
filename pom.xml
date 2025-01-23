@@ -122,7 +122,7 @@
     <aws.sdk.version>1.12.346</aws.sdk.version>
     <aopalliance.version>3.0.3</aopalliance.version>
     <jackson.version>2.14.0</jackson.version>
-    <guava.version>31.1-jre</guava.version>
+    <guava.version>32.0.0-android</guava.version>
     <jakarta.version>2.1.1</jakarta.version>
     <commons.codec.version>1.15</commons.codec.version>
     <aspectj.version>1.9.9.1</aspectj.version>
