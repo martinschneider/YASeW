@@ -66,7 +66,7 @@
     <selenium.version>4.2.2</selenium.version>
     <selenide.version>6.5.2</selenide.version>
     <cucumber.version>7.9.0</cucumber.version>
-    <wiremock.version>2.35.0</wiremock.version>
+    <wiremock.version>2.35.1</wiremock.version>
     <opencv.version>4.5.5-1</opencv.version>
     <tess4j.version>4.0.2</tess4j.version>
     <galen.version>2.4.4</galen.version>
